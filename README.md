@@ -4,7 +4,7 @@ Explicação de como manipular Listas em JavaScript utilizando: map, filter e re
 
 O método map() é utilizado quando queremos percorrer todos os elementos de uma lista e criar uma nova lista a partir deles.
 
-#Exemplo
+## Exemplo
 ```js
 const numeros = [1, 2, 3, 4, 5];
 
@@ -18,7 +18,7 @@ console.log(dobro);
 
 O método filter() é utilizado para selecionar elementos que atendem a uma determinada condição.
 
-#Exemplo
+## Exemplo
 ```js
 // Lista de números
 const numeros = [1, 2, 3, 4, 5];
@@ -33,7 +33,7 @@ console.log(pares);
 
 O método reduce() é utilizado para reduzir todos os elementos de uma lista a um único resultado.
 
-#Exemplo 
+## Exemplo 
 
 ```js
 // Lista de números
